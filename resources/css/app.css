@@ -1,0 +1,45 @@
+:root {
+    --site-background-color: #fff;
+    --site-font-color: #000;
+    --nav-background-color: #520000;
+    /*#2F494C;*/
+    --nav-font-color: #fff;
+
+    background-color: var(--site-background-color);
+    color: var(--site-font-color);
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+
+body {
+    line-height: 1.2;
+    background-image: linear-gradient(45deg, rgba(255,255,255,.2) 10%, rgba(255,255,255,1) 100%), url(/resources/images/buss-background.jpg);
+    background-size: cover;
+    background-position: 100%;
+    backdrop-filter: blur;
+}
+
+.main-content {
+    margin: auto;
+    width: 95%;
+    backdrop-filter: blur(3px);
+    section.block {
+        margin: 15px 5px;
+        & > h2 {
+            font-weight: 800;
+            text-transform: uppercase;
+        }
+    }    
+}

@@ -1,0 +1,169 @@
+{
+  "STRENGTHS": [
+    {
+      "name": "Problem Solving",
+      "description": "Ability to properly architect a solution to a new problem or diagnose and resolve an existing issue."
+    },
+    {
+      "name": "Attention to Detail",
+      "description": "Ability to break down requirements and ask the right questions to uncover missing use cases."
+    },
+    {
+      "name": "Organizational Skills",
+      "description": "Take complex projects and break them down into workable / testable pieces that can be delivered on time and with quality."
+    }
+  ],
+  "TECHNICAL": {
+    "expert": [
+      "HTML",
+      "Javascript",
+      "CSS",
+      "Svelte",
+      "Vue",
+      "React",
+      "Figma",
+      "Lucid Charts",
+      "Tailwind",
+      "SASS"
+    ],
+    "proficient in": [
+      "C / C++",
+      "Python",
+      ".NET",
+      "RAZOR"
+    ]
+  },
+  "EDUCATION": [
+    {
+      "institution": "Iona College",
+      "degree": "Bachelor of Science in Computer Science",
+      "status": "Graduated",
+      "date": "June 1991"
+    },
+    {
+      "institution": "St. John's University",
+      "degree": "Bachelor of Science in Computer Science",
+      "status": "Transferred",
+      "date": "September 1989"
+    }
+  ],
+  "SUMMARY": "Experienced software development professional with a robust 25-year track record spanning the entire development lifecycle, including planning, designing, building, testing, and deploying. In recent positions, I've excelled in crafting accessible and responsive web applications designed for optimal user engagement. Leveraging expertise in HTML, CSS, and various JavaScript frameworks, I contribute to the creation of dynamic and user-friendly digital solutions.",
+  "EXPERIENCE": [
+    {
+      "company": "PUBLISHERS CLEARING HOUSE",
+      "roles": [
+        {
+          "title": "Lead Front-End Developer/Engineer",
+          "start_date": "August 2019",
+          "end_date": "Present",
+          "responsibilities": [
+            "Led the development of a comprehensive new system for configurable user experiences, that could be themed and reused for onboarding and retaining users.",
+            "Creation of multiple new, reusable and customizable web components tailored for the site.",
+            [
+              "Implemented a new responsive universal navigation system for enhanced user experience.",
+              "Designed and integrated a dynamic hero section and image carousel to captivate user attention.",
+              "Developed info tips to provide users with relevant and contextual information.",
+              "Successfully incorporated ad placements and seamlessly integrated third-party components."
+            ],
+            "Configurability achieved through integration with a CMS (Content Management System).",
+            "Ensured the site is accessible to all users, emphasizing design and functionality.",
+            "Engaged in cross-functional collaboration with design teams using Figma.",
+            "Worked closely with stakeholders to align development with business goals.",
+            "Integrated configurable animations, actions, and analytic capturing functionalities for a dynamic user experience.",
+            "Played a pivotal role in rescuing and kick starting other projects by mentoring junior team members."
+          ]
+        },
+        {
+          "title": "Front-End Developer",
+          "start_date": "August 2018",
+          "end_date": "July 2019",
+          "responsibilities": [
+            "Created a customizable targeted communication module deployed on the site, enabling the business to deliver personalized messages to users.",
+            "Elevated user engagement within a gaming environment through the implementation of innovative features.",
+            "Successfully created a user-centric site, providing an interactive platform for users to play and win prizes.",
+            "Engineered a new website that repurposed data from an external source, dynamically presenting articles based on configurable categories set within an admin interface.",
+            "Engaged in collaborative efforts with developers, QA, and creative teams within an agile project framework.",
+            "Contributed to the sizing, implementation, and rigorous testing of stories, ensuring seamless integration of features into our projects."
+          ]
+        },
+        {
+          "title": "Senior Business Analyst",
+          "start_date": "December 2015",
+          "end_date": "July 2018",
+          "responsibilities": [
+            "Designed and spearheaded the implementation of an internal Web-based Contest Tracking System, focusing on: Prize tracking, Prize Drawing system, Winner fulfillment.",
+            "Captured high-level requirements from business stakeholders, translating them into comprehensive user and implementation stories for efficient feature delivery.",
+            "Acted on requirements to lead discussions with legacy systems where integration was required.",
+            "Formulated plans for implementing and delivering solutions, working closely with DB, Dev and QA teams.",
+            "Created mockup and PowerPoint presentations to present possible solution to business.",
+            "Groomed and pointed stories, modifying the approach as needed to fit sprint timeframe, while still providing business value.",
+            "Actively coded smaller features when time permitted (.NET, Razor, HTML, JavaScript and CSS).",
+            "Review QA test plans to ensure features are tested to meet specifications.",
+            "Assisted in mapping out project Roadmap to meet business goals for the upcoming year."
+          ]
+        },
+        {
+          "title": "Business Analyst / Scrum Master",
+          "start_date": "November 2013",
+          "end_date": "December 2015",
+          "responsibilities": [
+            "Planned and helped deliver multiple cross site features as well as multiple new websites.",
+            "Worked with internal creative and business teams to design the look and function of Website features.",
+            "Followed up with the business team to work out the functionality of the Website features, including Admin configuration options and End User requirements.",
+            "Led discussions with 3rd party vendors to gain details on how to integrate their content on PCH.com sites.",
+            "Acted as Scrum Master on some projects, setting sprint goals, scheduling code freeze and release dates, etc."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "COMPUTER ASSOCIATES",
+      "roles": [
+        {
+          "title": "Director: ARCserve Software Development",
+          "start_date": "September 2006",
+          "end_date": "May 2013",
+          "responsibilities": [
+            "Managed a team of 6 developers based at home office as well as dotted line reports based in Beijing, China and Hyderabad, India.",
+            "Worked closely with Product Management, Support managers and QA managers to evaluate customer enhancement requests for inclusion in our backlog for future releases.",
+            "Architect for multiple solutions that were designed to satisfy user requirements or to support new technologies. With the output being artifacts for the development process including design documents and work flow diagrams.",
+            "Oversaw the implementation of new features, delivering the design to developers and monitoring the progress through each stage of the development process.",
+            "Coordinated efforts with multiple teams during the development cycle. (i.e. Documentation, Build, QA, Setup, Localization and Support).",
+            "Created training literature as well as deliver training presentations to field and support technicians, in an effort to prepare them for implementation and support of the upcoming release.",
+            "Highlights from completed projects include: Linux/Unix Data Mover, Moving NDMP(NAS filer) backups onto ARCserve backup server as well as integration with Amazon S3 cloud as a backup destination."
+          ]
+        },
+        {
+          "title": "Senior Manager: ARCserve Device Development",
+          "start_date": "May 2005",
+          "end_date": "September 2006"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "start_date": "May 2003",
+          "end_date": "April 2005"
+        },
+        {
+          "title": "Software Engineer",
+          "start_date": "December 1999",
+          "end_date": "May 2003"
+        },
+        {
+          "title": "Maintenance Software Engineer",
+          "start_date": "May 1999",
+          "end_date": "December 1999"
+        },
+        {
+          "title": "Senior Technical Support Representative",
+          "start_date": "April 1997",
+          "end_date": "May 1999"
+        },
+        {
+          "title": "Technical Support Representative",
+          "start_date": "February 1996",
+          "end_date": "April 1997"
+        }
+      ]
+    }
+  ]
+}
